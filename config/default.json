@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoLink": "mongodb+srv://eremenkosv:key9087@cluster0.mm6nn.mongodb.net/ShortLink?retryWrites=true&w=majority",
+    "jwtSecret": "keySecret",
+    "baseUrl": "http://localhost:5000"
+}
